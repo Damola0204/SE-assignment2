@@ -22,7 +22,7 @@ You can verify this by running:
 ##  Usage Example
 
 After running hello.py, you should see the following output:
-   ```bash
+
    Hello, World! From main and feature-2 resolved
 
 ##  Branching and Collaboration
