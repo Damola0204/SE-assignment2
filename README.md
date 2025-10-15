@@ -13,17 +13,17 @@ The goal of this project is to demonstrate understanding of repository setup, br
 2. Ensure Python is installed on your computer.
 You can verify this by running:
    ```bash
-python --version
+   python --version
 
 4. Run the sample program:
    ```bash
-python hello.py
+   python hello.py
 
 ## 🚀 Usage Example
 
 After running hello.py, you should see the following output:
    ```bash
-Hello, World! From main and feature-2 resolved
+   Hello, World! From main and feature-2 resolved
 
 ## 🌿 Branching and Collaboration
 
