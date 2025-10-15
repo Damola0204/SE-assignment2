@@ -41,7 +41,7 @@ Two issues were created to track project tasks:
 
 "Add detailed project documentation" (assigned to Adedamola Adeyemo)
 
-"Update reflection PDF and verify repository link" (assigned to a Emmanuel Ali)
+"Update reflection PDF and verify repository link" (assigned to Emmanuel Ali)
 
 ##  Author
 
