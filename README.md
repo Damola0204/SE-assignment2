@@ -27,11 +27,11 @@ After running hello.py, you should see the following output:
 
 ##  Branching and Collaboration
 
-main branch: stable version of the code
+main branch: Stable version of the code
 
-feature-1: implemented greeting feature
+feature-1: I implemented the greeting feature
 
-feature-2: used for simulating and resolving a merge conflict
+feature-2: This was used for simulating and resolving a merge conflict
 
 Pull requests were created and merged to demonstrate GitHub collaboration features.
 
@@ -39,9 +39,9 @@ Pull requests were created and merged to demonstrate GitHub collaboration featur
 
 Two issues were created to track project tasks:
 
-Add detailed project documentation (assigned to Adedamola Adeyemo)
+"Add detailed project documentation" (assigned to Adedamola Adeyemo)
 
-Update reflection PDF and verify repository link (assigned to a Emmanuel Ali)
+"Update reflection PDF and verify repository link" (assigned to a Emmanuel Ali)
 
 ##  Author
 
