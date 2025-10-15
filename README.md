@@ -39,9 +39,9 @@ Pull requests were created and merged to demonstrate GitHub collaboration featur
 
 Two issues were created to track project tasks:
 
-Add detailed project documentation (assigned to Damola)
+Add detailed project documentation (assigned to Adedamola Adeyemo)
 
-Update reflection PDF and verify repository link (assigned to a classmate)
+Update reflection PDF and verify repository link (assigned to a Emmanuel Ali)
 
 ##  Author
 
