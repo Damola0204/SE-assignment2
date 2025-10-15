@@ -45,6 +45,6 @@ Update reflection PDF and verify repository link (assigned to a classmate)
 
 ##  Author
 
-Damola Adeyemo
+Adedamola Adeyemo
 Prairie View A&M University
 Software Engineering — GitHub Assignment
