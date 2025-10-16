@@ -1,5 +1,5 @@
 def main():
- print("Hello, World! From main and feature-2 (resolved)")
+print("Hello, World! From reviewed feature")
 
 if __name__ == "__main__":
     main()
